@@ -5,7 +5,7 @@ MongoDB using Robo 3T Locally
 Express 4
 Passport LocalStrategy Email and Password
 
-No JWT, Cookies?
+Cookies, No JWT
 No ExpressRouter
 
 Mongoose
